@@ -4,10 +4,13 @@ import Header from "./components/Header"
 function App() {
   
   const [cantidad, setCantidad] = useState(10000);
+  const MIN = 0;
+  const MAX = 20000;
+  const STEP = 100;
   
   function handleChange(e){
-    // console.log(Number(e.target.value));
 
+    setCantidad(+e.target.value);
   }
 
   
@@ -20,8 +23,13 @@ function App() {
         type="range"
         className="w-full h-6 bg-gray-200 accent-lime-500 hover:accent-lime-600" 
         onChange={handleChange}
+        min={MIN}
+        max={MAX}
+        step={STEP}
+        value={cantidad}
       />
       
+      <p className='text-center my-10 text-5xl font-extrabold text-indigo-600'>{cantidad}</p>
     </div>
   )
 }
