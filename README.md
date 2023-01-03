@@ -11,7 +11,7 @@ Un sencillo cotizador de préstamos con React
 
 ## *Version 1.0.0:*
 
-- [![App](https://img.shields.io/badge/App-informational?style=for-the-badge&logo=github&logoColor=fff&color=23272d)](https://...)
+- [![App](https://img.shields.io/badge/App-informational?style=for-the-badge&logo=netlify&logoColor=fff&color=23272d)](https://react-cotizadorprestamos.netlify.app/)
 
 - No tiene incorporada ninguna base de datos
 
