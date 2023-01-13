@@ -1,11 +1,11 @@
 # **`Cotizador de Préstamos`** 
 # *`Con React`* 
 ### **`Nahuel-DevOne`**
-[![Contact Me](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=Mail.Ru&logoColor=fff&color=red)](mailto:nahue.developer1@gmail.com)
+[![Contact Me](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=Mail.Ru&logoColor=fff&color=darkred)](mailto:nahue.developer1@gmail.com)
 [![LinkedId](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=blue)](https://www.linkedin.com/in/nahuel-developer/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=fff&color=23272d)](https://github.com/Nahuel-DevOne)
 
-# *Información del proyecto:*
+## *Información del proyecto:*
 
 Un sencillo cotizador de préstamos con React 
 
@@ -13,7 +13,7 @@ Un sencillo cotizador de préstamos con React
 
 - [![App](https://img.shields.io/badge/App-informational?style=for-the-badge&logo=netlify&logoColor=fff&color=23272d)](https://react-cotizadorprestamos.netlify.app/)
 
-- No tiene incorporada ninguna base de datos
+### - No tiene incorporada ninguna base de datos
 
 ## *Desarrollado con:*
 
@@ -38,13 +38,11 @@ Un sencillo cotizador de préstamos con React
 
 ## ![](public/images/flujo-compra/carrito-compra.png) -->
 
-<!-- # *Componentes:* -->
+# *Componentes:*
 
-<!-- ## 1. *Error*
-## 2. *Formulario*
-## 3. *Header*
-## 4. *ListadoPacientes*
-## 5. *Paciente* -->
+## 1. *Header*
+## 2. *Button*
+
 
   <!-- Hecho con amor -->
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Nahuel-Devone/)
